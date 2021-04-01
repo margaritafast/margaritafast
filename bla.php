@@ -10,6 +10,6 @@ class Bla  {
 
     public function blabla ()
     {
-        echo ("blabla");
+        echo ("blabla blablabl");
     }
 }
